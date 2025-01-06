@@ -38,7 +38,7 @@ This frontend project is developed by the following team members:
 1. **Bui Xuan Thang** - Project Manager
    - Responsible for overall project coordination, task allocation, and timeline management.
 
-2. **Nguyen Tuan Huy** - Backend Developer
+2. **Duong Thanh Phat** - Backend Developer
    - Focused on building RESTful APIs, database design, and server-side logic.
 
 3. **Nguyen Dac Thang** - Frontend Developer
@@ -47,7 +47,7 @@ This frontend project is developed by the following team members:
 4. **Nguyen Ngoc Quy** - QA Engineer
    - Ensures the quality of the application through rigorous testing and debugging.
 
-5. **Duong Thanh Phat** - DevOps Engineer
+5. **Nguyen Tuan Huy** - DevOps Engineer
    - Responsible for CI/CD pipeline setup, server management, and application deployment.
 
 6. **Pham Dinh Hao** - UX/UI Designer
@@ -100,7 +100,7 @@ Contributions are welcome. Please follow these steps:
 
 For inquiries or support, please contact:
 
-- Email: [frontend-support@hospitalmanagement.com](mailto:frontend-support@hospitalmanagement.com)
+- Email: xthang.lib@gmail.com
 - Phone: +84 522 383 757
 
 ---
