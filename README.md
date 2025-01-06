@@ -35,30 +35,36 @@ The Frontend for the Hospital Management System is a user-friendly and intuitive
 
 This frontend project is developed by the following team members:
 
-1. **Nguyen Van A** - Frontend Lead
-   - Responsible for planning and overseeing the development of the frontend architecture.
+1. **Bui Xuan Thang** - Project Manager
+   - Responsible for overall project coordination, task allocation, and timeline management.
 
-2. **Tran Thi B** - UI/UX Designer
-   - Designs the user interface and ensures a seamless user experience.
+2. **Nguyen Tuan Huy** - Backend Developer
+   - Focused on building RESTful APIs, database design, and server-side logic.
 
-3. **Le Van C** - Frontend Developer
-   - Implements UI components, state management, and API integrations.
+3. **Nguyen Dac Thang** - Frontend Developer
+   - Responsible for designing and implementing the user interface using React.js.
 
-4. **Pham Thi D** - QA Engineer
-   - Conducts rigorous testing to ensure the frontend meets quality standards.
+4. **Nguyen Ngoc Quy** - QA Engineer
+   - Ensures the quality of the application through rigorous testing and debugging.
 
+5. **Duong Thanh Phat** - DevOps Engineer
+   - Responsible for CI/CD pipeline setup, server management, and application deployment.
+
+6. **Pham Dinh Hao** - UX/UI Designer
+   - Focused on designing user-friendly and accessible interfaces for the application.
+     
 ## Installation and Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/hospital-management-frontend.git
+   git clone https://github.com/itstee2k3/medical-fe.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd hospital-management-frontend
+   cd medical-fe
    ```
 
 3. Install dependencies:
@@ -95,7 +101,7 @@ Contributions are welcome. Please follow these steps:
 For inquiries or support, please contact:
 
 - Email: [frontend-support@hospitalmanagement.com](mailto:frontend-support@hospitalmanagement.com)
-- Phone: +84 987 654 321
+- Phone: +84 522 383 757
 
 ---
 
