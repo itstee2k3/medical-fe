@@ -110,7 +110,7 @@ const LoginPage = () => {
             block
             style={{ marginBottom: 10 }}
           >
-            Đăng nhập Cùng Xuân ThắngThắng
+            Đăng nhập 
           </Button>
           Hoặc <Link to="/register">Đăng ký ngay!</Link>
         </Form.Item>
