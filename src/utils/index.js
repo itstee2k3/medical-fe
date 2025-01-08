@@ -319,4 +319,9 @@ export const TYPE_SOCKET = {
   notification: "notification",
 };
 
+export const TYPE_SOCKET1 = {
+  message: "message",
+  notification: "notification",
+};
+
 export const PASSWORD_DEFAULT = "123456";
